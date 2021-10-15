@@ -1,0 +1,6 @@
+/Users/zackfrey/Projects/HauntedHome/HauntedHome/bin/Debug/HauntedHome.exe
+/Users/zackfrey/Projects/HauntedHome/HauntedHome/bin/Debug/HauntedHome.pdb
+/Users/zackfrey/Projects/HauntedHome/HauntedHome/obj/Debug/HauntedHome.csproj.AssemblyReference.cache
+/Users/zackfrey/Projects/HauntedHome/HauntedHome/obj/Debug/HauntedHome.csproj.CoreCompileInputs.cache
+/Users/zackfrey/Projects/HauntedHome/HauntedHome/obj/Debug/HauntedHome.exe
+/Users/zackfrey/Projects/HauntedHome/HauntedHome/obj/Debug/HauntedHome.pdb
