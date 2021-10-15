@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HauntedHome", "HauntedHome\HauntedHome.csproj", "{052270C1-1163-4FBC-93D6-1C68740B7E14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{052270C1-1163-4FBC-93D6-1C68740B7E14}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{052270C1-1163-4FBC-93D6-1C68740B7E14}.Debug|anycpu.Build.0 = Debug|anycpu
+		{052270C1-1163-4FBC-93D6-1C68740B7E14}.Release|anycpu.ActiveCfg = Release|anycpu
+		{052270C1-1163-4FBC-93D6-1C68740B7E14}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7DFE14D-2826-4417-B66E-0FCA0D8D000C}
+	EndGlobalSection
+EndGlobal
