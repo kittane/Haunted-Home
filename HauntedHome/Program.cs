@@ -33,7 +33,7 @@ namespace HauntedHome
             CharacterName = Console.ReadLine();
 
             //confirms input
-            Console.WriteLine("It is nice to meet you, " + CharacterName + ". A shame our acquaintance will be so short..");
+            Console.WriteLine("It is nice to meet you, " + CharacterName + ". A shame our acquaintance will be cut so short..");
             Console.ReadKey();
         }
 
